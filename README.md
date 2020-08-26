@@ -1,3 +1,6 @@
+title: var (dusk)
+description: First attempt at a portfolio/blog project, stay tuned.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hectorihernan35/hechern.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
